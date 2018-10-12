@@ -1,4 +1,6 @@
 ## How to install:
+- First install laravel 5.4.*
+https://laravel.com/docs/5.4#installation
 - Copy the `packages` folder to root of laravel project.
 - Add this code to your composer.js `"CaffeineInteractive\\Remzy\\": "packages/caffeineinteractive/remzy/src/"` autoload > inside psr-4.
 ```
